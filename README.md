@@ -1,5 +1,4 @@
-# Ramshrivatsav
-Handling time series data with python:
+# Handling time series data with python:
 This code snippet demonstrates an analysis of two datasets related to Apple Inc. and marketing spend for a hypothetical company. The analysis is performed using Python with various libraries such as pandas, statsmodels, matplotlib, and seaborn.
 
 Libraries Used:
